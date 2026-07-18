@@ -1,0 +1,18 @@
+# data/
+*.csv
+
+# Power BI
+*.pbix
+*.pbit
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python analysis scripts (dev only)
+*.pyc
+__pycache__/
+
+# Temp
+data_analysis.py
+data_deep_analysis.py
